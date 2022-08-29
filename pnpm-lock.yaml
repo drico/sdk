@@ -8,7 +8,7 @@ specifiers:
   '@types/node': ^18.0.3
   '@typescript-eslint/eslint-plugin': ^5.30.5
   '@typescript-eslint/parser': ^5.30.5
-  argon2: 0.28.7
+  argon2: 0.29.1
   axios: ^0.27.2
   dotenv: 16.0.1
   eslint: ^8.19.0
@@ -43,7 +43,7 @@ devDependencies:
   '@types/node': 18.0.3
   '@typescript-eslint/eslint-plugin': 5.30.5_6zdoc3rn4mpiddqwhppni2mnnm
   '@typescript-eslint/parser': 5.30.5_4x5o4skxv6sl53vpwefgt23khm
-  argon2: 0.28.7
+  argon2: 0.29.1
   dotenv: 16.0.1
   eslint: 8.19.0
   eslint-config-prettier: 8.5.0_eslint@8.19.0
@@ -1229,8 +1229,8 @@ packages:
     resolution: {integrity: sha512-58S9QDqG0Xx27YwPSt9fJxivjYl432YCwfDMfZ+71RAqUrZef7LrKQZ3LHLOwCS4FLNBplP533Zx895SeOCHvA==}
     dev: true
 
-  /argon2/0.28.7:
-    resolution: {integrity: sha512-pvsScM3Fq7b+jolXkZHh8nRQx0uD/WeelnwYPMRpn4pAydoa1gqeL/KRdWAag4Hnu1TJNBTAfqyTjV+ZHwNnYA==}
+  /argon2/0.29.1:
+    resolution: {integrity: sha512-bWXzAsQA0B6EFWZh5li+YBk+muoknAb8KacAi1h/bC6Gigy9p5ANbrPvpnjTIb7i9I11/8Df6FeSxpJDK3vy4g==}
     engines: {node: '>=14.0.0'}
     requiresBuild: true
     dependencies:
